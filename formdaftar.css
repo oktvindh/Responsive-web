@@ -1,0 +1,26 @@
+.card{
+    width: 30%;
+    margin: auto;
+    margin-left: 50%px;
+    margin-top: 50px; 
+    margin-bottom: 30px;
+    box-shadow: 0 15px 20px rgba(0, 0, 0, 0.20);
+    padding: 30px;  
+  }
+
+  .card h2{
+    text-align: center;
+  }
+
+button{
+    width: 100%;
+    margin-top: 10px;
+    padding: 10px;
+    background-color: rgb(12, 161, 247);
+    border: none;
+    color: white;
+}
+  
+button:active{
+    background-color: red;
+}
